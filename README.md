@@ -68,7 +68,7 @@ This project demonstrates:
 
 | Home Page |
 |------------|
-| ![Home](assets/home.jpg) |
+| ![Home](assets/home.png) |
 
 > *(Replace with your own screenshots after uploading them to the `/assets` folder.)*
 
